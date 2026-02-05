@@ -29,7 +29,7 @@ stages {
          stage('EXPORT') {
         steps {
 
-          bat '"C:\\Python312\\python.exe" C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\DataPipeline_Store_LT\\data_transform.py'
+          bat '"C:\\Python312\\python.exe" C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\DataPipeline_Store_LT\\data_export.py'
     
         }
     }
