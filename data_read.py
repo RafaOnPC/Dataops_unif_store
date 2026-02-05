@@ -15,7 +15,7 @@ def cargar_datos():
         df = pd.read_csv(archivo, delimiter='|', dtype=str)
         df['archivo_origen'] = os.path.basename(archivo)
         lista_df.append(df)
-        print(f'Lectura exitosa: {archivo}')
+        print(f'Lectura exitosa de: {archivo}')
 
     df_final = pd.concat(lista_df, ignore_index=True)
     return df_final
