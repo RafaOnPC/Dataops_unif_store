@@ -27,4 +27,4 @@ if __name__ == "__main__":
     salida = os.path.join('output', 'read_output.csv')
     df.to_csv(salida, index=False)
 
-    print(f'Datos leidos guardados en: {salida}')
+    print(f'Datos leidos en: {salida}')
