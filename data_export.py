@@ -19,15 +19,9 @@ def exportar_datos(df):
     # Exportacion por Mes agrupacion por columna Archivo_origen
     for archivo_origen, df_mes in df.groupby('archivo_origen'):
         mes = extraer_mes(archivo_origen)
-
-        archivo_excel = os.path.join(
-            'output',
-            f'Fich_Ventas_{mes}.xlsx'
-        )
-
+        archivo_excel = os.path.join('output',f'Fich_Ventas_{mes}.xlsx')
         df_export = df_mes.drop(columns=['archivo_origen'], errors='ignore')
         df_export.to_excel(archivo_excel, index=False)
-
         print(f'Archivo generado: {archivo_excel}')
 
     # Creacion de archivo global
