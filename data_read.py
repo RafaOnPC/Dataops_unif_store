@@ -28,4 +28,4 @@ if __name__ == "__main__":
     df.to_csv(salida, index=False)
 
     print(f'Datos leidos en la carpeta: {salida}')
-    print('Probando conexion Part 2...')
+    print('Probando conexion Part 3...')
