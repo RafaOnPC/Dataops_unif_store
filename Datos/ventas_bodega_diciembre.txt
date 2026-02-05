@@ -1,16 +1,16 @@
-codigo|producto|marca|categoria|costo|precio|stock|vendidos
-P001|aRROZ Extra|Costeño|Abarrotes|2.50|3.20|120|85
-P002|Azucar RUBIA|Cartavio|Abarrotes|2.20|3.00|100|70
-P003|Aceite VEGETAL|Primor|Abarrotes|6.80|8.50|60|45
-P003|Aceite Vegetal|Primor|Abarrotes|6.80|8.50|60|45
-P004|leche entera|Gloria|Lacteos|3.00|4.00|80|65
-P005|Yogurt NATURAL|Laive|Lacteos|2.80|3.80|70|50
-P006|Fideos CORTOS|Don Vittorio|Abarrotes|1.80|2.60|150|110
-P006|Fideos Cortos|Don Vittorio|Abarrotes|1.80|2.60|150|110
-P007|Galletas Dulces|San Jorge|Snacks|1.50|2.50|90|72
-P008|ATUN|Florida|Conservas|4.00|5.50|75|40
-P009|Gaseosa Cola|Inca Kola|Bebidas|2.30|3.50|200|160
-P010|DETERGENTE|Bolivar|Limpieza|6.00|8.00|50|38
-P010|Detergente en Polvo|Bolivar|Limpieza|6.00|8.00|50|38
-P010|Detergente en Polvo|Bolivar|Limpieza|6.00|8.00|50|38
-P007|Galletas Dulces|San Jorge|Snacks|1.50|2.50|90|72
+codigo|producto|marca|categoria|costo|precio|stock|vendidos|mes
+P001|aRROZ Extra|Costeño|Abarrotes|2.50|3.20|120|85|diciembre
+P002|Azucar RUBIA|Cartavio|Abarrotes|2.20|3.00|100|70|diciembre
+P003|Aceite VEGETAL|Primor|Abarrotes|6.80|8.50|60|45|diciembre
+P003|Aceite Vegetal|Primor|Abarrotes|6.80|8.50|60|45|diciembre
+P004|leche entera|Gloria|Lacteos|3.00|4.00|80|65|diciembre
+P005|Yogurt NATURAL|Laive|Lacteos|2.80|3.80|70|50|diciembre
+P006|Fideos CORTOS|Don Vittorio|Abarrotes|1.80|2.60|150|110|diciembre
+P006|Fideos Cortos|Don Vittorio|Abarrotes|1.80|2.60|150|110|diciembre
+P007|Galletas Dulces|San Jorge|Snacks|1.50|2.50|90|72|diciembre
+P008|ATUN|Florida|Conservas|4.00|5.50|75|40|diciembre
+P009|Gaseosa Cola|Inca Kola|Bebidas|2.30|3.50|200|160|diciembre
+P010|DETERGENTE|Bolivar|Limpieza|6.00|8.00|50|38|diciembre
+P010|Detergente en Polvo|Bolivar|Limpieza|6.00|8.00|50|38|diciembre
+P010|Detergente en Polvo|Bolivar|Limpieza|6.00|8.00|50|38|diciembre
+P007|Galletas Dulces|San Jorge|Snacks|1.50|2.50|90|72|diciembre
