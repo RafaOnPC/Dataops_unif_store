@@ -1,0 +1,15 @@
+codigo|producto|marca|categoria|costo|precio|stock|vendidos
+P001|Arroz Extra|Costeño|Abarrotes|2.50|3.20|120|85
+P001|Arroz Extra|Costeño|Abarrotes|2.50|3.20|120|85
+P001|Arroz Extra|Costeño|Abarrotes|2.50|3.20|120|85
+P002|Azucar Rubia|Cartavio|Abarrotes|2.20|3.00|100|70
+P003|Aceite Vegetal|Primor|Abarrotes|6.80|8.50|60|45
+P003|Aceite Vegetal|Primor|Abarrotes|6.80|8.50|60|45
+P004|Leche Entera|Gloria|Lacteos|3.00|4.00|80|65
+P005|Yogurt Natural|Laive|Lacteos|2.80|3.80|70|50
+P006|Fideos Cortos|Don Vittorio|Abarrotes|1.80|2.60|150|110
+P007|Galletas Dulces|San Jorge|Snacks|1.50|2.50|90|72
+P008|Atun en Lata|Florida|Conservas|4.00|5.50|75|40
+P009|Gaseosa Cola|Inca Kola|Bebidas|2.30|3.50|200|160
+P010|Detergente en Polvo|Bolivar|Limpieza|6.00|8.00|50|38
+P007|Galletas Dulces|San Jorge|Snacks|1.50|2.50|90|72
